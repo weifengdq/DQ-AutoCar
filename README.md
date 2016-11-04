@@ -26,3 +26,5 @@ Alitum Designer菜单栏中Design->Layer Stack Manager, 这样就可以添加层
 - STM32F207VET6_PDF_C59126_2015-10-07_Datasheet.pdf   
 
 这3个文档都是需要看一下的.
+
+另外, STM32同引脚数量不同型号的引脚是兼容的, 也就是说, 板子用到100个引脚的F103Vxx, F407Vxx之类的也是可以的.
